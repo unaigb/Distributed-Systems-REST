@@ -1,0 +1,8 @@
+# Eclipse / compilado
+bin/
+build/
+*.class
+.metadata/
+
+# Librerías de Jersey (ver README)
+*.jar
